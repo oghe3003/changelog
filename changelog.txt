@@ -1,0 +1,54 @@
+[02/09/2021] Nusantara 3.2 Revolution
+- Kernel 4.19.204 with Clang-xRageTC
+- selinux enforcing
+- add thermal profile
+- add motodolby
+- add notchbar killer
+- support dynamic refresh rate
+- remove 90hz option in display settings
+- fix dimming
+- fast charging stuck on 3000mA MAX
+- everything should works
+
+[31/08/2021] Nusantara 3.2 Revolution
+- Kernel 4.19.203 quantic with Clang-xRageTC
+- selinux enforcing
+- remove thermal profile
+- add color mode saturated 
+- add 90hz option in display settings
+- everything should works
+
+[21/08/2021] Nusantara 3.1 Reservoir
+- Kernel 4.19.204 with Clang-xRageTC
+- selinux enforcing
+- QTI Codec2 HAL
+- Custom msm_irqbalance
+- enable pre-rendering
+- enable Qpower and Deepsleep at the same time
+- enable idle timer for battery saver
+- maybe audio mic on pubg fix (please try it n report)
+- everything should works
+
+[19/08/2021] Nusantara 3.1 Reservoir
+- Kernel 4.19.204 with Clang-xRageTC
+- selinux enforcing
+- Fix fastcharging up to 5000+++ (don't complain hot 😂)
+- remove option for 90hz on display settings
+- remove ambient setting
+- add saturation option on display setting
+- added thermal profile
+- mic fix when using usb dongle
+- and fix somebugs
+
+[18/08/2021] Nusantara 3.1 Reservoir
+- Kernel 4.19.203 Quantic with Clang-xRageTC
+- selinux enforcing
+- add some tweak for improve
+- Fix fastcharging
+- add option for 90hz on display settings
+- and fix somebugs
+
+[15/08/2021] Nusantara 3.1 Reservoir
+- Initial Release (Personal use to Public use)
+- Add Gcam Camera by Parrot043
+- Kernel 4.9.203 IMMENSITY-X by UtsavTheCunt with Clang-xRageTC
