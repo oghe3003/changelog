@@ -1,5 +1,5 @@
 [03/09/2021] Nusantara 3.2 Revolution
-- Kernel 4.19.205 Optimuz Drunk with Clang-xRageTC
+- Kernel 4.19.205 Optimuz Drunk with Clang-proton
 - Set default thermal mode to evaluation
 - unlock fast charging up to 5500mA
 - Switch to Adaptive Charging
@@ -7,6 +7,7 @@
 - audio: fixup 24 bit deep buffer
 - Add missing Crypto props
 - Drop MMS user agent overlays
+- media: Nuke qcom.video.decoder.avc
 
 [02/09/2021] Nusantara 3.2 Revolution
 - Kernel 4.19.204 with Clang-xRageTC
