@@ -1,3 +1,11 @@
+[05/09/2021] Nusantara 3.2 Revolution
+- Kernel 4.19.205 Optimuz Drunk with Clang-proton
+- add prorietary file capi_v2_dap_cpdp.so
+- Update blobs from V12.5.3.0.RKHMIXM
+- Move IR HAL to consumerir.kona.so
+- audio: fixup audio io policy voip_rx flags
+- everything should works
+
 [03/09/2021] Nusantara 3.2 Revolution
 - Kernel 4.19.205 Optimuz Drunk with Clang-proton
 - Set default thermal mode to evaluation
