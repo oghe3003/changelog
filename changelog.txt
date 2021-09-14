@@ -6,6 +6,7 @@
 - Fix PowerHAL nodes libperfmgr max_pwrlevel
 - Add Pixel 2016 exclusive xml
 - Enable burnin protection
+- Remove some Gapps packages at build time
 
 [07/09/2021] Nusantara 3.2 Revolution
 - Kernel 4.19.204-perf+ with proton-clang
