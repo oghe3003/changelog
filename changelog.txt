@@ -1,3 +1,12 @@
+[13/09/2021] Nusantara 3.2 Revolution
+- Kernel 4.19.205-perf+ with proton-clang
+- update redfin fp to sept 2021
+- sepolicy: Label USB-PD sysfs nodes
+- Revert Trigger screen backlight reset after release
+- Fix PowerHAL nodes libperfmgr max_pwrlevel
+- Add Pixel 2016 exclusive xml
+- Enable burnin protection
+
 [07/09/2021] Nusantara 3.2 Revolution
 - Kernel 4.19.204-perf+ with proton-clang
 - Nuke smartcharging
