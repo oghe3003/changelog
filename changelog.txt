@@ -1,3 +1,26 @@
+[21/09/2021] Nusantara 3.2 Revolution
+- kernel 4.19.206-IMMENSITY-X with xRageTC Clang
+- set rounded corner padding
+- Remove prebuilt 64bit audio HAL
+- Remove 32bit camera libraries 
+- Remove MIUI camera fonts
+- Remove MDSS and LTM display configs
+- Drop 32bit sensor stack
+- Remove sensorcalibrate permission
+- Remove proto sensor configs
+- Remove soundfx and acdb libraries
+- Remove duplicated camera components from blobs list
+- Drop additional vibrator firmwares
+- Put elliptic_sensor.xml in sensors config section
+- build the GPS/GNSS stack from source
+- Rework init.performance_level.rc
+- Enable VoLTE/VoWIFI for VI Odisha
+- Enable VoLTE for Smartfren (Indonesia)
+- Enable VoLTE support for Telkomsel (Indonesia)
+- add Max visible notification icons on statusbar
+- Enable Proximity Check-on-wake
+- Restrict permissions to hide Magisk
+
 [13/09/2021] Nusantara 3.2 Revolution
 - Kernel 4.19.205-perf+ with proton-clang
 - update redfin fp to sept 2021
