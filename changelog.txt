@@ -1,3 +1,18 @@
+[29/09/2021] Nusantara 3.2 Revolution
+- kernel 4.19.206-IMMENSITY-X with xRageTC Clang
+- fix lagging when playing recorded videos via the camera or screen recordings
+- drop livedisplay and adaptive sleep
+- enable callrecording 
+- add dontaudit rules
+- add missing voice-tty-full-headset-mic
+- increase mic volume
+- add new gcam (B-S-G)
+- add cutout overlay
+- cutout : set the scale to 0.8 when the camera isn't in use 
+- cutout : temporarily hide the view on fixed rotation changes 
+- cutout : do not animate position changes 
+- cutout : do not show cutout when the camera isn't in use
+
 [21/09/2021] Nusantara 3.2 Revolution
 - kernel 4.19.206-IMMENSITY-X with xRageTC Clang
 - set rounded corner padding
