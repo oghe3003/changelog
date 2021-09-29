@@ -2,7 +2,7 @@
 - kernel 4.19.206-IMMENSITY-X with xRageTC Clang
 - fix lagging when playing recorded videos via the camera or screen recordings
 - drop livedisplay and adaptive sleep
-- enable callrecording 
+- enable callrecording if you use a dialer other than google (optional)
 - add dontaudit rules
 - add missing voice-tty-full-headset-mic
 - increase mic volume
