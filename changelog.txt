@@ -1,3 +1,11 @@
+[16/10/2021] Nusantara 3.3 Rhun
+- Update blobs from LA.UM.9.12.r1-10800-SMxx50.0  
+- bring back gcam parrot043
+- broken dolby
+- broken mi sound enhancer
+- fix some bug
+- etc
+
 [11/10/2021] Nusantara 3.3 Rhun
 - Fix Fingerprint
 - Migrate to Xiaomi power AIDL HAL Again
