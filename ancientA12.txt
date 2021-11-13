@@ -16,6 +16,8 @@
 • Replace writepid with task_profiles command for cgroup migration
 • Introduce Refresh Rate QS tile
 • Import Pixel2016Exclusive
-• Fix thermal profile build for s 
+• Fix thermal profile build for s
+• Switch to Vulkan UI renderer
+• Enforce android-S new launch debugfs restrictions
 • Synced with latest sources
 • Fixed some features and improved performance
