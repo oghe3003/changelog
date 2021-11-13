@@ -1,0 +1,21 @@
+[06/11/2021] Ancient 6.0 | Society
+• Update Optimus Drunk 4.19.217 with xRageTC Clang
+• Build MotoDolby
+• Set default thermal profile on boot
+• Disable Screen Attention
+• Disable adaptive sleep
+• Add offload gapless support flag
+• Add new flag name to compress offload case
+• Commonize IFAAManager & enable boot_jar
+• Fix deep sleep with ambient display
+• Disable wallpaper zooming
+• Fix screenrecord lag
+• Manage ram for better
+• Add props to improve battery backup
+• Remove odex/oat files and Update SurfaceFlinger from pinner list
+• Replace writepid with task_profiles command for cgroup migration
+• Introduce Refresh Rate QS tile
+• Import Pixel2016Exclusive
+• Fix thermal profile build for s 
+• Synced with latest sources
+• Fixed some features and improved performance
