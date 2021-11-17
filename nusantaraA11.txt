@@ -1,3 +1,17 @@
+[17/11/2021] Nusantara 3.4 Rawon
+- Change kernel to Quantic 4.19.217 with xRageTC Clang
+- set debug.sf.enable_hwc_vds to 0
+- Reduce screenshot delay to 0
+- Add CPU Temp Overlay
+- Allow priv access to camera apps
+- Set correct fingerprint/power button vertical position
+- Disable proximity sensor check for dialer's answer UI
+- provide support for callscreening for kona/lito.
+- Add correct config_mainBuiltInDisplayCutout 
+- Add front-facing camera protection 
+- Disable proximity usage during doze
+- Rename settings refresh rate config
+
 [06/11/2021] Nusantara 3.3 Rhun
 - Update Optimus Drunk 4.19.215 with xRageTC Clang
 - Fix deep sleep with ambient display
