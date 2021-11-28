@@ -1,4 +1,4 @@
-[06/11/2021] Ancient 6.1 | Shield
+[28/11/2021] Ancient 6.1 | Shield
 • Kernel Optimus Drunk 4.19.217 with xRageTC Clang
 • Set Limit screen recorder to 90fps
 • Remove MusicFX 
