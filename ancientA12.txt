@@ -1,3 +1,32 @@
+[06/11/2021] Ancient 6.1 | Shield
+• Kernel Optimus Drunk 4.19.217 with xRageTC Clang
+• Set Limit screen recorder to 90fps
+• Remove MusicFX 
+• Add vendor prefix to sysfs_battery_supply
+• Add back button to ThermalProfiles
+• Add ThermalProfiles tile
+• Remove config_jitzygoteBootImagePinnerServiceFiles list
+• Revert "sm8250-common: biometrics/fod: Uprev to 2.3"
+• Nuked columms
+• Disable unspecialized app process pool
+• Remove enable_advanced_sf_phase_offset
+• Enable microphone and camera privacy toggles
+• Removing GSI Keys
+• Adding developer GSI keys
+• Enforce product interfaces
+• Set iorap prefetch prop to mendel flags
+• Enable H/W Composition
+• Build libhidltransport
+• Switch nfc recovery mechanism to toggle nfc state
+• Add hardware/qcom-caf/wlan to namespaces and wpa_supplicant_8_lib to cfi path
+• Move aux camera packagelist prop to system props
+• Update fp from raven november
+• Set an overlay to indicate power button FPS
+• Set frame rate multiple threshold to 120
+• Disallow forced dark mode
+• Synced with latest sources
+• Fixed some features and improved performance
+
 [06/11/2021] Ancient 6.0 | Society
 • Update Optimus Drunk 4.19.217 with xRageTC Clang
 • Build MotoDolby
