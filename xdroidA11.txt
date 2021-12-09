@@ -1,0 +1,17 @@
+[09/12/2021] xdCAF_rev1.7.mnmlist.STBL
+• update Optimus Drunk 4.19.220 with xRageTC Clang
+• fix low mic volume for some apps 
+• clean up FM Tuner from original commit
+• add new flag name to compress offload case
+• add offload gapless support flag
+• debloat more google apps again
+• add blobs vendor.display.config 1.9
+• fix denial sepolicy
+• set an overlay to indicate power button FPS
+• set frame rate multiple threshold to 120
+• cutout: disallow forced dark mode
+• update build fingerprint from redfin SQ1A.211205.008
+• add front-facing camera protection
+• disable proximity sensor check for dialer's answer UI
+• synced with latest sources
+• fixed some features and improved performance
