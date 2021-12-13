@@ -1,8 +1,7 @@
 [13/12/2021] Ancient 6.1 | Shield
 • Kernel Optimus Drunk 4.19.220 with xRageTC Clang
 • Update blobs from LA.UM.9.12.r1-13300-SMxx50.QSSI12.0
-• Define Adaptive Charging SysfsNode
-• Add adaptivecharging and add A12 native gaming mode support
+• Drop thermal qti
 • Update build fingerprint from redfin SQ1A.211205.008
 • Build se_nq_extn_client
 • Add correct config_mainBuiltInDisplayCutout
