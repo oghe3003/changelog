@@ -1,3 +1,45 @@
+[13/12/2021] Ancient 6.1 | Shield
+• Kernel Optimus Drunk 4.19.220 with xRageTC Clang
+• Update blobs from LA.UM.9.12.r1-13300-SMxx50.QSSI12.0
+• Define Adaptive Charging SysfsNode
+• Add adaptivecharging and add A12 native gaming mode support
+• Update build fingerprint from redfin SQ1A.211205.008
+• Build se_nq_extn_client
+• Add correct config_mainBuiltInDisplayCutout
+• Previous one was a notch bar, thats not what we have
+• Add front-facing camera protection
+• Disable proximity sensor check for dialer's answer UI
+• Advertise fingerprint on power button
+• Fix hardware denial
+• AOD: Decouple suspend from screen state
+• wifi: Smarter decisions on whether to use 2/5Ghz AP
+• Allow all filesystems for USB-OTG
+• Update surfaceflinger pin for A12
+• Update alioth PowerHint
+• Address untrusted_app_29 & gmscore_app denials
+• PowerHal Sepolicy Fixes for A12
+• Update hotword permissions
+• Fix neverallows 
+• Add sm8250-ac freqs to owerhint
+• Set Adaptive Charging permissions
+• Fix hotword priv-permissions file path
+• Introduce FPS counter QS Tile 
+• Re-configure CPU variant according to GS101
+• Enable IORap app launch prefetching 
+• Default Enable uicc_se 
+• Force triple frame buffers
+• Disable vsync for CPU rendered Apps
+• Enable the pre-rendering feature 
+• Add switchbar to disable dynamic thermal
+• Fix thermal profile build for android-12 (2/2)
+• Added few props for performance
+• Adjust zram write back policy 
+• Give system permissions to kgsl-3d0 nodes 
+• Disable Few-debug services
+• Enable vibration multiple intensities
+• Synced with latest sources
+• Fixed some features and improved performance
+
 [28/11/2021] Ancient 6.1 | Shield
 • Kernel Optimus Drunk 4.19.217 with xRageTC Clang
 • Set Limit screen recorder to 90fps
