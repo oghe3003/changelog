@@ -20,7 +20,6 @@
 • Update hotword permissions
 • Fix neverallows 
 • Add sm8250-ac freqs to owerhint
-• Set Adaptive Charging permissions
 • Fix hotword priv-permissions file path
 • Introduce FPS counter QS Tile 
 • Re-configure CPU variant according to GS101
