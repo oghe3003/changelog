@@ -1,4 +1,20 @@
 [17/11/2021] Nusantara 3.4 Rawon
+- Change kernel to Quantic 4.19.220 v11.29 with xRageTC Clang
+- Fix low mic volume for some apps
+- Add new flag name to compress offload case 
+- Add offload gapless support flag
+- Re-configure CPU variant according to GS101
+- Set an overlay to indicate power button FPS
+- Set frame rate multiple threshold to 120
+- Disallow forced dark mode
+- Fix typo
+- Update build fingerprint from redfin SQ1A.211205.008
+- Add front-facing camera protection
+- Disable proximity sensor check for dialer's answer UI
+- Synced with latest sources
+- Fixed some features and improved performance
+
+[17/11/2021] Nusantara 3.4 Rawon
 - Change kernel to Quantic 4.19.217 with xRageTC Clang
 - set debug.sf.enable_hwc_vds to 0
 - Reduce screenshot delay to 0
