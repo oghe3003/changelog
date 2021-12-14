@@ -1,5 +1,5 @@
 [15/12/2021] Nusantara 3.4 Rawon
-- Change kernel to Quantic 4.19.221 v11.29 with xRageTC Clang
+- Change kernel to Optimus Drunk 4.19.221 v11.29 with xRageTC Clang
 - Fix low mic volume for some apps
 - Add new flag name to compress offload case 
 - Add offload gapless support flag
