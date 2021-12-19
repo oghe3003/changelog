@@ -1,4 +1,4 @@
-[13/12/2021] Ancient 5.7 | Iron
+[20/12/2021] Ancient 5.7 | Iron
 • Kernel Hyper-X 4.19.221 with proton Clang
 • Show the Preference for Touch Sensitivity
 • Enable color temperature
