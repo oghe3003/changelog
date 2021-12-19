@@ -1,0 +1,13 @@
+[13/12/2021] Ancient 5.7 | Iron
+• Kernel Hyper-X 4.19.221 with proton Clang
+• Show the Preference for Touch Sensitivity
+• Enable color temperature
+• Enable physical display cutout
+• Bump volume on video recordings
+• Update power profile for xiaomi SM8250-AC
+• Switch to Raven fingerprint
+• Add ThermalProfiles tile
+• Update Gcam 8.2.300
+• and moare....
+• Synced with latest sources
+• Fixed some features and improved performance
