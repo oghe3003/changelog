@@ -1,3 +1,27 @@
+[23/12/2021] Ancient 6.1 | Shield
+• Kernel Optimus Drunk 4.19.222 with xRageTC Clang
+• Rebase Device Tree (thx @SebaUbuntu for Great DT)
+• Migrate to HIDL Power HAL
+• Add qti-telephony-hidl-wrapper-prd 
+• Properly label /sys/kernel/qvr_external_sensor/fd
+• Label ro.gfx.driver.1
+• Disable Async MTE on System Server 
+• Update Gcam to 8.2.300 (thx Parrot043)
+• Fix place for Config ScreenRecording
+• Fix 4K VideoRecording
+• Fix EIS (now u can record with smooth aafffff)
+• Enable AOSP surfaceflinger
+• Import device specific init rc
+• Build offline charging daemon dependency
+• Declare OpenGL ES dEQP level
+• Use FUSE passthrough by default
+• Add touchscreen/gaming profiles
+• Update audio config
+• Fixing muuuaaacccchhh Denial SELinux 
+• Synced with latest sources
+• Fixed some features and improved performance
+• and moooaaarrrr..... you don't need to know haha 
+
 [13/12/2021] Ancient 6.1 | Shield
 • Kernel Optimus Drunk 4.19.220 with xRageTC Clang
 • Update blobs from LA.UM.9.12.r1-13300-SMxx50.QSSI12.0
