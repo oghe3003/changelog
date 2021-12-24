@@ -1,3 +1,20 @@
+[24/12/2021] xdCAF_rev1.7.mnmlist.STBL
+• Update Optimus Drunk 4.19.222 with xRageTC Clang
+• Rebase Device Tree
+• Update HALs from CAF
+• Fixing soo many denial SELinux
+• Update Gcam to 3.2.300 from Parrot043
+• Fixing 4K Video Recording
+• Fixing EIS
+• Move Dolby Atmos to Sound in Settings
+• Update blobs from LA.UM.9.12.r1-10800-SMxx50.0
+• Add qti-telephony-hidl-wrapper-prd
+• Update power profile
+• Switch to Raven fingerprint
+• synced with latest sources
+• fixed some features and improved performance
+• and moooaaarrrr..... you don't need to know haha
+=======================================================================
 [09/12/2021] xdCAF_rev1.7.mnmlist.STBL
 • update Optimus Drunk 4.19.220 with xRageTC Clang
 • fix low mic volume for some apps 
