@@ -1,3 +1,24 @@
+[02/01/2022] xdCAF_rev1.7.mnmlist.STBL
+• Update Optimus Drunk 4.19.223
+• Build with TheRagingBeast Clang LD=ld.lld
+• Add CPUInfo toggle tile
+• Add FPS Info Overlay & Tile
+• Fixing soo many denial SELinux
+• Drop MotoDolby
+• Hide Magisk Better
+• Build sound_trigger.primary.kona from source 
+• Configure cpuset parameters
+• Remove core dump/file generation references
+• Build custom audio amplifier
+• Drop instances from primary input
+• Delete /data/system/package_cache after updates
+• Limit Netflix to 60hz only
+• Tuning UFS clkgate and ah8 during boot time
+• Boost GPU to max for Expensive Rendering
+• Add new pocket mode By @maytinhdibo
+• fixed some features and improved performance
+• and moooaaarrrr..... you don't need to know haha
+=======================================================================
 [24/12/2021] xdCAF_rev1.7.mnmlist.STBL
 • Update Optimus Drunk 4.19.222 with xRageTC Clang
 • Rebase Device Tree
