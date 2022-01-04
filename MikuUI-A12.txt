@@ -1,0 +1,18 @@
+[04/01/2022] MikuUI 0.8.4 | Snow
+• Kernel Optimus Drunk 4.19.223
+• Build with TheRagingBeast Clang LD=ld.lld
+• Fixing soo many denial SELinux
+• Add new pocket mode By @maytinhdibo
+• Up Display Driver to 604 
+• Enable 64-bit inode version support for ext4
+• Disabling UFS clkgate and ah8 during boot time helps in reducing
+• Allow all filesystems for USB-OTG
+• Kill Console Parameters
+• Kill Disable Sleep
+• Configure cpuset parameters
+• Automatic delete storage.xml after boot
+• Move some properties to system for sepolicy rules
+• Build more blobs for camera
+• Fixed bank app like (Jago, Brimo etc)
+• Fixed some features and improved performance
+• and moooaaarrrr..... you don't need to know haha
