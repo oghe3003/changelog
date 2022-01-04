@@ -1,4 +1,5 @@
 [04/01/2022] MikuUI 0.8.4 | Snow
+========== DEVICE CHANGELOG ==========
 • Kernel Optimus Drunk 4.19.223
 • Build with TheRagingBeast Clang LD=ld.lld
 • Fixing soo many denial SELinux
@@ -14,5 +15,23 @@
 • Move some properties to system for sepolicy rules
 • Build more blobs for camera
 • Fixed bank app like (Jago, Brimo etc)
+• Debloat moar Apps
 • Fixed some features and improved performance
 • and moooaaarrrr..... you don't need to know haha
+
+=========== ROM CHANGELOG ===========
+• Add  reduction RR to 60hz if Activate battery saver
+• Add Reset Stats Battery
+• Add Double tap to sleep on lockscreen
+• Add Screen Scale to Display Settings
+• Add Screen Cut-out to Display Settings
+• Add Haptic Feedback
+• Add Pill leght navigation bar
+• Add swipe Navigation Back Settings
+• Add Fullscreen gesture
+• Add GPU Renderer in developer options
+• Drop Reboot tiles
+• Remove default aspect ratio limit for old apps
+• Fix some important things
+• Open app when clicking on icon in App Info
+• InstalledApp: show link to Google Play
