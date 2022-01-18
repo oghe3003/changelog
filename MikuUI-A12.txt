@@ -1,8 +1,12 @@
 [**/**/2022] MikuUi 0.9.2 | Snow
 ========= DEVICE CHANGELOG ==========
-•
-
-
+• Uprev Kernel Optimus Drunk 4.19.224 v11.32
+• Fix Audio & mic (i hope)
+• Increase audio HAL buffer size to 240
+• Tune Wifi and update from MIUI 13.0.2.0
+• Build missing sensor packages 
+• Add kpti=off to boot command line 
+• I won't explain everything, because you won't read it
 
 ==========ROM CHANGELOG ============
 • Add Statusbar brightness control
@@ -22,10 +26,18 @@
 • Enable Multi-User
 • Rewrite StatusBar Lyric Hook logic, everything is fine now. XD
 • Add Square and Round icon shapes for  Miku no Icon Factory
+• and moarrr...
 ** added by me **
 • Add Heads up
-• 
-
+• Android.view: Speed things up!!
+• Disable more debugging
+• Set max fling ticks per sec to 24 
+• Disable useless logspam
+• Disable bluetooth by default
+• Max Excape Animation in Half 
+• Disable/reduce functionality of various ad/analytics libraries
+• AbsListView to reduce click operation latency
+• and moaarrr...
 
 ==================================================================
 
