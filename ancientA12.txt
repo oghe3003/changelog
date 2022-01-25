@@ -1,3 +1,40 @@
+[25/01/2022] Ancient 6.1 | Shield
+• Kernel Optimus Drunk 4.19.225
+• Migrate to Xiaomi power AIDL HAL
+• Fixing Offline Charging
+• Use UClamp Now
+• Add PRODUCT_DEXPREOPT_SPEED_APPS
+• Compile libldacBT_bco.so
+• Build more blobs for camera
+• Enable freeform windows
+• Fix Baseband NULL
+• Build sound_trigger.primary.kona from source 
+• Drop extra versions 28 and 29
+• Build audio.primary.default
+• Build missing sensor packages
+• Uprev android.hardware.bluetooth.audio to 2.1
+• Move some properties to system for sepolicy rules
+• Sepolicy fix camera hals
+• Enable 64-bit inode version support for ext4
+• Tuning UFS clkgate and ah8 during boot time
+• Remove racey printk setups
+• Add msm_adsp_sleepmon dev
+• Remove code for starting legacy ril
+• Allow all filesystems for USB-OTG
+• Kill Console Parameters
+• Remove core dump/file generation references
+• Configure cpuset parameters
+• Setup LLVM kernel flags & Remove warnings
+• Enable TARGET_QTI_USB_SUPPORTS_AUDIO_ACCESSORY
+• Build custom audio amplifier
+• Tunning AUDIO
+• Delete /data/system/package_cache after updates
+• Add back thermal-engine definition
+• Adreno update v604
+• Synced with latest sources
+• Fixed some features and improved performance
+• and moooaaarrrr..... you don't need to know haha 
+
 [23/12/2021] Ancient 6.1 | Shield
 • Kernel Optimus Drunk 4.19.222 with xRageTC Clang
 • Rebase Device Tree (thx @SebaUbuntu for Great DT)
