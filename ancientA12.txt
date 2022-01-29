@@ -1,3 +1,18 @@
+[29/01/2022] Ancient 6.2 | Shield
+• Kernel Optimus Drunk 4.19.225
+• Drop Dolby
+• Audio & sensor blobs update from ALIOTH v13020
+• Fix AliPay TouchID for Alioth
+• Downrev android.hardware.bluetooth to 2.0
+• Fix volume for Apps like WA and Telegram
+• Update mediacodecs from ALIOTH v13020
+• Set 50% Zram size
+• Delete duplicate prop
+• Import apn config
+• Add Adaptive charging
+• Synced with latest sources
+• Fixed some features and improved performance
+
 [25/01/2022] Ancient 6.1 | Shield
 • Kernel Optimus Drunk 4.19.225
 • Migrate to Xiaomi power AIDL HAL
