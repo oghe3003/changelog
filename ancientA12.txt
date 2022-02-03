@@ -1,6 +1,6 @@
 [04/02/2022] Ancient 6.2 | Shield
 • Kernel Optimus Drunk 4.19.227
-• Bringback Dolby
+• Bringback again Dolby
 • Tune dolby again
 • Fix denial for cameraserver
 • Fix ripple animation
