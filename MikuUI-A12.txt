@@ -1,3 +1,21 @@
+[07/02/2022] MikuUi 0.9.2 | Snow
+========= DEVICE CHANGELOG ==========
+• Uprev Kernel Optimus Drunk 4.19.227 v11.34
+• Optimized system performance
+• Improved system security and stability
+
+==========ROM CHANGELOG ============
+• Miku Sound Effects!
+• Added Sneaky IconPack for Icon Factory. : )  
+• Fixed issue that may get freezed while creating a new user 
+• Fixed broken navigation bar and gestures after switching to the new user  
+• Fixed lockscreen wallpaper not being set if different from the Home one  
+• Make QS brightness slider animation more subtle 
+• Icon Factory will catch the NPE rather then crash.
+• Fixed Network Traffic issues
+
+==================================================================
+
 [**/**/2022] MikuUi 0.9.2 | Snow
 ========= DEVICE CHANGELOG ==========
 • Uprev Kernel Optimus Drunk 4.19.224 v11.32
