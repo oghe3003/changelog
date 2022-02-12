@@ -1,5 +1,6 @@
-[12/02/2022] Ancient 6.2 | Shield
+[13/02/2022] Ancient 6.2 | Shield
 • Ship to kernel OG V2 4.19.229
+• Buid with Lawnchair now!
 • Drop vendor.qti.hardware.audiohalext from Prebuilts
 • Enable Doze on Always On Display
 • Tune overlay at statusbar
