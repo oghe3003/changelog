@@ -16,7 +16,6 @@
 • Add additional WiFi dependenices to prebuilts
 • Match Ril blobs manifests with vendor versions
 • Disable ALMK and PPR on all targets
-• Drop thermal-engine
 • Support hifi sensor
 • Use mi_thermald for thermal configure
 • Add some props for performance and stability
