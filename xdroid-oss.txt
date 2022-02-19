@@ -3,4 +3,5 @@
 • Ship with GPU Driver v615
 • Ship with PixelLauncherMOD now!
 • Inbuild Dolby atmos
+• Inbuild FW (dont flash any fw again)
 • Initial Released
