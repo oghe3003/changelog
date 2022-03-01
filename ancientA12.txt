@@ -1,3 +1,26 @@
+[02/03/2022] Ancient 6.2 | Shield
+• Ship to kernel OG_Rev4 4.19.231
+• Add Google Battery HAL
+• Update Display Driver to v615
+• Change Moto Dolby to Dolby Atmos
+• Sync mediacodecs with LA.UM.9.12.r1-13800-SMxx50.0
+• Disable unspecialized app process pool
+• Set correct manufacter prop
+• Enable UXE
+• Set config_screen_off_delay to 0
+• Set doze brightness to 0
+• Fix random reboot while trying to play videos on Netflix, HOOQ etc.
+• Disable APEX compression
+• Add back TouchFeature Compilation
+• Set displayfeature_hidl true
+• Set Max Radius burn In Protection to -1
+• Add additional WiFi dependenices to prebuilts
+• Disable status Bar Burn In Protection
+• Add back again thermal-engine
+• and moooarr..!!
+• Add some props for performance and stability
+• Synced with latest sources
+
 [13/02/2022] Ancient 6.2 | Shield
 • Ship to kernel OG V2 4.19.229
 • Buid with Lawnchair now!
